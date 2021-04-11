@@ -18,11 +18,11 @@ demonyms.csv = dataset with all English demonyms.
 WordsToProbe.csv = all words that contained the word slang in their definition and a denomyn. \
 american.csv = all words that contained the word slang in their definition, but not a denomyn. With care, we'll argue that some of these words may be American.
 
-#### iii) The enriched dataframes with new fields. They now have be re-processed. 
+#### iii) The enriched dataframes with new fields. They now have to be re-processed. 
 American_ud.csv = words that were non-localized and that are supposedly american, after being enriched with fields thumbs_up and written_on (date).\
 WordsInfo.csv = words that were localize, after being enriched with fields thumbs_up and written_on (date). 
 
-#### iv) We process the data and, given that many equal words were posted by many users,  we take the mean posting date for each group. They are now able to be fed into pytrend.
+#### iv) We process the data and, given that many equal words were posted by many users,  we take the mean posting date for each group. They are now ready to be fed into pytrend.
 WordsToPytrend_nongeo.csv = non localized group\
 WordsToPytrend.csv = Localized group
 
