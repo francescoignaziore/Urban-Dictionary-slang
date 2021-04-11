@@ -11,7 +11,7 @@
 ##### Their description is:
 
 ### i) From the database, we filter all the words through demonyms and we assign each word to a country.
-city.csv = dataset of cities/regions/countries in the world. \n
+city.csv = dataset of cities/regions/countries in the world. /n
 demonyms.csv = dataset with all English demonyms.
 
 ### ii) We save all the word_id and definition of the words we are interested in in two files, according to whether the word has a geo-label or it doesn't. These words now have to be looked up on Urban Dictionary to retrieve the date when they were inserted.
