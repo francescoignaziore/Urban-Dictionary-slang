@@ -8,7 +8,7 @@
 #### 2) The Urban Dictionary Database updated to March 21, 2021, containing 5 714 237 entries, (word_id, definition),  can be downloaded here: https://www.dropbox.com/s/tvhy5otred13e71/urban-dict.db?dl=0
 
 #### 3) The following .csv files, used in the intermediate steps of the analysis can be found here: https://www.dropbox.com/sh/z32es6xjqhz18ad/AADfp1vZ_XrX3ivcWdDGaEaHa?dl=0
-#### We quicly go through the processing step to explain what's the use of each file.
+#### We quickly go through the processing step to explain what's the use of each file.
 
 #### i) From the database, we filter all the words through demonyms and we assign each word to a country.
 city.csv = dataset of cities/regions/countries in the world. \
