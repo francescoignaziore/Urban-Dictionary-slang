@@ -14,7 +14,7 @@
 city.csv = dataset of cities/regions/countries in the world. \
 demonyms.csv = dataset with all English demonyms.
 
-#### ii) We save all the word_id and definition of the words we are interested in in two files, according to whether the word has a geo-label or it doesn't. These words now have to be looked up on Urban Dictionary to retrieve the date when they were inserted.
+#### ii) We save the word_id and definition of the words we are interested in in two files, according to whether the word has a geo-label or it doesn't. These words now have to be looked up on Urban Dictionary to retrieve the date when they were inserted.
 WordsToProbe.csv = all words that contained the word slang in their definition and a denomyn. \
 american.csv = all words that contained the word slang in their definition, but not a denomyn. With care, we'll argue that some of these words may be American.
 
