@@ -26,11 +26,11 @@ WordsInfo.csv = words that were localize, after being enriched with fields thumb
 WordsToPytrend_nongeo.csv = non localized group\
 WordsToPytrend.csv = Localized group
 
-#### v1) The results with columns (date, word_id, GT Influence Score, Definition) for inferential analysis.
+#### v.i) The results with columns (date, word_id, GT Influence Score, Definition) for inferential analysis.
 Pytrends_final.csv = Google trends score for words with a country label.\
 trends_set_nongeo.csv = Google trends score for words without a country labe.
 
-#### v2) The results in matrix format for network visualization.
+#### v.ii) The results in matrix format for network visualization.
 words_country.csv = Matrix with single where i = word, j = country, x_ij search values of word_i in country_j, related to words that have a country label.\
 words_nongeo.csv = Matrix with single where i = word, j = country, x_ij search values of word_i in country_j, related to words that don't have a country label.
 
