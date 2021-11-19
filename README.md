@@ -1,6 +1,10 @@
 # Urban dictionary slang and its influence across the world
 
 
+![alt text](https://github.com/francescoignaziore/Urban-Dictionary-slang/image.png?raw=true)
+
+
+
 ## Data Retrieval
 
 #### 1) For the retrieval of Urban Dictionary words and definitions, we used the following python scripts: https://github.com/samuelstevens/ubscrape
