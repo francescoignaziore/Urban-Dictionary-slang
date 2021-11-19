@@ -1,7 +1,7 @@
 # Urban dictionary slang and its influence across the world
 
 
-![alt text](https://github.com/francescoignaziore/Urban-Dictionary-slang/image.png?raw=true)
+![alt text](https://github.com/francescoignaziore/Urban-Dictionary-slang/icon.png?raw=true)
 
 
 
